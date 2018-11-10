@@ -1,11 +1,11 @@
-#angular-cli-ghpages
+# angular-cli-ghpages
 
-##Installation & Setup
+## Installation & Setup
 ````
 npm i angular-cli-ghpages --save-dev
 ````
 
-##Usage
+## Usage
 
 Usage:
 ````
